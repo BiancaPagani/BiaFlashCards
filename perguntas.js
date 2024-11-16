@@ -1,4 +1,4 @@
-perguntas.js
+
 criaCartao (
     'Programação',
     'O que é Python?',
